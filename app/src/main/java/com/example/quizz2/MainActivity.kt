@@ -2,9 +2,9 @@ package com.example.quizz2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-//import android.widget.Button
+// import android.widget.Button
 import android.widget.Toast
-//import android.widget.TextView
+// import android.widget.TextView
 import com.example.quizz2.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
