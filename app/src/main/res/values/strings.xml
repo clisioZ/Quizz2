@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app3</string>
+    <string name="question_txt">¿Roma es la Capital de Italia?</string>
+    <string name="btrue">True</string>
+    <string name="bfalse">False</string>
+    <string name="btnext">Siguiente -></string>
+    <string name="question_geo">¿Canberra es la capital de Australia?</string>
+    <string name="question_geo_2">¿Munich es la capital de Alemania?</string>
+    <string name="good_toast">Correcto!!!</string>
+    <string name="bad_toast">Incorrecto!!!</string>
+</resources>
